@@ -3,7 +3,7 @@ let tempEle = document.getElementById("temp-value")
 let locEle = document.getElementById("location")
 let weatherdescEle = document.getElementById('weather-desc')
 let btnEle = document.getElementById("btn");
-const apiKey = '0d932cf88a62781def697f9f78675b7c';
+const apiKey = '8f4485f5f505ef4d2ad72e90b213a15f';
 
 
 btnEle.onclick = function(){
